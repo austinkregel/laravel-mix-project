@@ -1,1 +1,1 @@
-This is a base project layout base on the [default Laravel project](https://github.com/laravel/laravel).
+This is a basic project layout base on the [default Laravel project](https://github.com/laravel/laravel). This repo is meant to help projects that don't use Laravel, but still want Laravel based tools.
